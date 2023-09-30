@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">appp</string>
+
+    <string name="tv_login">Iniciar Sesion</string>
+    <string name="Et_email">Email</string>
+    <string name="Et_Password">Password</string>
+    <string name="Btn_iniciar_sesion">Ingresar</string>
+    <string name="Btn_registrarme">Registrarme</string>
+
+    <string name="Tv_Registrarme">Registrarme</string>
+    <string name="Et_nombres">Nombres</string>
+    <string name="Et_apellidos">Apellidos</string>
+    <string name="Et_telefono">Telefono</string>
+    <string name="Et_r_password">Repetir Password</string>
+</resources>
